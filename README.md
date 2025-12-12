@@ -94,4 +94,4 @@ Kèm theo: - So sánh dữ liệu gốc & PCA
 -   Huỳnh Hoài Nam -- 52200151
 -   Nguyễn Nhật Trường -- 52200192
 -   Giản Hoàng Huy -- 52200147
-    Giảng viên hướng dẫn: TS. Hoàng Anh
+  Giảng viên hướng dẫn: TS. Hoàng Anh
