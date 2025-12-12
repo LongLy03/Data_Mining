@@ -87,11 +87,12 @@ Kèm theo: - So sánh dữ liệu gốc & PCA
 - Deep Learning nâng cao
 - Phát triển web (Flask/Django)
 
-## 👥 Thành viên
+## Thành viên
 
 -   Lý Tiểu Long -- 52200168
 -   Lê Hồng Quang -- 52200156
 -   Huỳnh Hoài Nam -- 52200151
 -   Nguyễn Nhật Trường -- 52200192
 -   Giản Hoàng Huy -- 52200147
-  Giảng viên hướng dẫn: TS. Hoàng Anh
+
+## Giảng viên hướng dẫn: TS. Hoàng Anh
